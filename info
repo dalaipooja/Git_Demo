@@ -1,4 +1,11 @@
 Hi
+<<<<<<< HEAD
 I learned Docker 
 Will start Git
 Byee!
+=======
+I learned Podman
+Will learn Pod
+Byee!
+
+>>>>>>> design
